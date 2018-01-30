@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 8099b7d4c48898c4da3eccfa8fb04b26
-timeCreated: 1517113952
+guid: fc7deba5b354ece4fbac8c9e753ce699
+timeCreated: 1517348905
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: BlueKnightSpriteSheet_0
-    21300002: BlueKnightSpriteSheet_1
-    21300004: BlueKnightSpriteSheet_2
-    21300006: BlueKnightSpriteSheet_3
-    21300008: BlueKnightSpriteSheet_4
-    21300010: BlueKnightSpriteSheet_5
-    21300012: BlueKnightSpriteSheet_6
-    21300014: BlueKnightSpriteSheet_7
-    21300016: BlueKnightSpriteSheet_8
-    21300018: BlueKnightSpriteSheet_9
+    21300000: BlueKnightSpriteSheet 1_0
+    21300002: BlueKnightSpriteSheet 1_1
+    21300004: BlueKnightSpriteSheet 1_2
+    21300006: BlueKnightSpriteSheet 1_3
+    21300008: BlueKnightSpriteSheet 1_4
+    21300010: BlueKnightSpriteSheet 1_5
+    21300012: BlueKnightSpriteSheet 1_6
+    21300014: BlueKnightSpriteSheet 1_7
+    21300016: BlueKnightSpriteSheet 1_8
+    21300018: BlueKnightSpriteSheet 1_9
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlueKnightSpriteSheet_0
+      name: BlueKnightSpriteSheet 1_0
       rect:
         serializedVersion: 2
-        x: 89
-        y: 423
-        width: 100
-        height: 97
+        x: 102
+        y: 645
+        width: 87
+        height: 108
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,13 +114,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: BlueKnightSpriteSheet_1
+      name: BlueKnightSpriteSheet 1_1
       rect:
         serializedVersion: 2
-        x: 194
-        y: 422
-        width: 92
-        height: 95
+        x: 201
+        y: 647
+        width: 97
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,27 +128,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: BlueKnightSpriteSheet_2
+      name: BlueKnightSpriteSheet 1_2
       rect:
         serializedVersion: 2
-        x: 292
-        y: 420
-        width: 91
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: BlueKnightSpriteSheet_3
-      rect:
-        serializedVersion: 2
-        x: 388
-        y: 420
+        x: 310
+        y: 644
         width: 96
-        height: 92
+        height: 107
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,13 +142,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: BlueKnightSpriteSheet_4
+      name: BlueKnightSpriteSheet 1_3
       rect:
         serializedVersion: 2
-        x: 492
-        y: 417
+        x: 415
+        y: 647
         width: 95
-        height: 93
+        height: 104
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,27 +156,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: BlueKnightSpriteSheet_5
+      name: BlueKnightSpriteSheet 1_4
       rect:
         serializedVersion: 2
-        x: 592
-        y: 417
-        width: 89
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: BlueKnightSpriteSheet_6
-      rect:
-        serializedVersion: 2
-        x: 690
-        y: 418
+        x: 518
+        y: 648
         width: 95
-        height: 95
+        height: 105
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,13 +170,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: BlueKnightSpriteSheet_7
+      name: BlueKnightSpriteSheet 1_5
       rect:
         serializedVersion: 2
-        x: 795
-        y: 418
-        width: 84
-        height: 96
+        x: 621
+        y: 651
+        width: 98
+        height: 103
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,13 +184,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: BlueKnightSpriteSheet_8
+      name: BlueKnightSpriteSheet 1_6
       rect:
         serializedVersion: 2
-        x: 891
-        y: 419
-        width: 88
-        height: 96
+        x: 727
+        y: 650
+        width: 99
+        height: 106
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,13 +198,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: BlueKnightSpriteSheet_9
+      name: BlueKnightSpriteSheet 1_7
       rect:
         serializedVersion: 2
-        x: 985
-        y: 420
-        width: 93
+        x: 835
+        y: 653
+        width: 100
         height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueKnightSpriteSheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 645
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueKnightSpriteSheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 648
+        width: 102
+        height: 103
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
